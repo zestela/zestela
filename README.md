@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://zestela.co/" target="_blank">
-    <img alt="LOGO" width="320src="./zestela-logo.png"/>
+    <img alt="LOGO" width="320" src="./zestela-logo.png"/>
   </a>
 </div>
 <div align="center">
