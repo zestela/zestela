@@ -7,7 +7,7 @@
 
 ## 体验使用观星记
 
-你可以访问[观星记 Web Dev](https://starte.zestela.co)来体验网页版本观星记。
+你可以访问[观星记 Web Alpha](https://starte.zestela.co)来体验网页版本观星记。
 
 你也可以在[观星记的GitHub仓库Releases](https://github.com/zestela/Starte-PC/releases)下载体验最新的观星记PC版本。
 
