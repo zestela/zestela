@@ -1,4 +1,11 @@
-# Welcome to Zestela
+<div align="center">
+  <a href="https://zestela.co/" target="_blank">
+    <img alt="LOGO" width="320src="./zestela-logo.png"/>
+  </a>
+</div>
+<div align="center">
+  <h1>Welcome To Zestela</h1>
+</div>
 
 Zestela 致力于让人们在闲暇之时纵览星空之美，感受宇宙的苍茫辽阔。
 
