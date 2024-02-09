@@ -22,6 +22,8 @@
 
 ## 相关链接
 
+[加入交流QQ群Space.Park.](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tMtp2Cb7nVGiYjb39OV1eKlbb030t7Gq&authKey=50tdA1tiNTSaYMYwInxx9We%2F8YCHfmwn428Vrjk6NxpzXdrZK1u988BEzRmxYfX8&noverify=0&group_code=732265873)（群号732265873）
+
 [观星记许可协议](https://zestela.co/starte-agreement/)
 
 [帮助与支持](https://zestela.co/support/)
