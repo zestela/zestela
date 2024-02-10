@@ -24,6 +24,8 @@
 
 **[点击赞助zestela、观星记，获取特别权益](https://afdian.net/a/zestela)！**
 
+[点击阅读观星记开发文档](https://github.com/zestela/Starte-PC/wiki/Starte-Development-Document)
+
 [加入交流QQ群Space.Park.](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=L0DzcMTTHI23_Rea1SqE_XcnK1xeY57z&authKey=YVw77GdraX5VhGkAFgAkGQBzCYsBg58jineRcDecdre6LbYDYiJH5CN6%2BwEIadO%2F&noverify=0&group_code=761505371)（群号761505371）
 
 [观星记许可协议](https://zestela.co/starte-agreement/)
